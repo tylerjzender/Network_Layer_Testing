@@ -9,6 +9,7 @@ During training, data was recorded about the predictions of the network and comp
 kept to record the total number of correct predictions made during training. This was compared to the total number of images
 passed through the network to track a 'total running accuracy'. This data was then visualized using tensorboard.
 
+![alt text](https://github.com/tylerjzender/Network_Layer_Testing/blob/main/NetworkLayerTesting_Tensorboard.JPG?raw=true)
 
 Predictions were also compared to the dataset labels and entered into a confusion matrix. The matrix is printed out at the end
 of the script along with the total correct prediction for each network.
