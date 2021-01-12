@@ -1,5 +1,14 @@
 # Network Layer Testing Project
 
+@settings {
+  font-size: 100;
+}
+Test1
+@settings {
+  font-size: 50;
+}
+Test2
+
 The aim of this short project was to inspect and visualize the effect of variations in the number of layers of a DNN. To do this,
 three separate DNNs were created. The first was created with two convolutional layers and three linear layers. The second network
 was created with an additional convolutional and linear layer, and the third network with one less convolutional and linear layer
