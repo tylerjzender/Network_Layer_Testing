@@ -1,7 +1,7 @@
 # Network Layer Testing Project
 
 The aim of this short project was to inspect and visualize the effect of variations in the number of layers of a CNN. To do this,
-three separate DNNs were created using pytorch functionalities. The first was created with two convolutional layers and three 
+three separate CNNs were created using pytorch functionalities. The first was created with two convolutional layers and three 
 linear layers. The second network was created with an additional convolutional and linear layer, and the third network with one 
 less convolutional and linear layer than the first network. Each network was trained with the Fashion MNIST dataset included in
 the torchvision package.
